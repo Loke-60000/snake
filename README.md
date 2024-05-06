@@ -1,9 +1,6 @@
-# Snake Game 🐍
+# Snake Game ![Start Image](assets/start.png)
 
 ## A simple snake game using the Pygame library.
-
-![Start Image](assets/start.png){:width="600px" style="image-rendering: pixelated;"}
-
 
 ## Table of Contents
 
