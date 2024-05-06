@@ -1,8 +1,8 @@
-<div style="text-align: center;">
+<p style="text-align: center;">
     <h1>Snake Game 🐍</h1>
     <h2>A simple snake game using the Pygame library.</h2>
     <img src="assets/start.png" alt="Start Image" width="400" style="image-rendering: pixelated; display: block; margin: 0 auto;">
-</div>
+</p>
 
 ## Table of Contents
 
