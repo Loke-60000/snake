@@ -2,11 +2,8 @@
 
 ## A simple snake game using the Pygame library.
 
-![Start Image](assets/start.png)
+![Start Image](assets/start.png){:width="600px" style="image-rendering: pixelated;"}
 
-<div align="center">
-  <img src="assets/start.png" alt="Start Image" width="400" style="image-rendering: pixelated;">
-</div>
 
 ## Table of Contents
 
